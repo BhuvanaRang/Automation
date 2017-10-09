@@ -113,7 +113,7 @@ public class ReUsableMethods {
 
 	}
 
-	/* update report on each test case */
+	/* update report on each test case - create conflict my_test*/
 	public static void Update_Report(String Res_type,String Action, String result) throws IOException {
 		String str_time;
 		Date exec_time = new Date();
