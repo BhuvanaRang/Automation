@@ -11,7 +11,7 @@ public class Driver {
 		//AutomationScripts.forgotPasswordLink();
 		//AutomationScripts.forgotPassword4B();
 		//AutomationScripts.userMenu();
-		//AutomationScripts.myProfile();
+		AutomationScripts.myProfile();
 		AutomationScripts.mySettings();
 	}
 
